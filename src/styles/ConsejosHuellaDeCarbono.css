@@ -1,0 +1,12 @@
+.consejos-container {
+    margin: 20px;
+    margin-top: 5rem;
+  }
+  
+  .consejos-list {
+    list-style-type: decimal; 
+    padding-left: 20px; 
+    
+  }
+  
+  
